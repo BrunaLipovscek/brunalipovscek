@@ -50,3 +50,4 @@ Sou uma profissional com 18 anos de experiência em Tecnologia e Educação, atu
 * **LinkedIn:** [linkedin.com/in/brunalipovscek](https://linkedin.com/in/brunalipovscek)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunalipovscek&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunalipovscek&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
