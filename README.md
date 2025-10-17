@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou uma profissional com 18 anos de experiência em Tecnologia e Educação, atualmente estudante de Análise e Desenvolvimento de Sistemas e estagiária em análise de sistemas ERP. Sou apaixonada por otimizar processos, resolver problemas e garantir a excelência em soluções digitais.
+Sou uma profissional com 18 anos de experiência em Tecnologia e Educação, atualmente estudante de Análise e Desenvolvimento de Sistemas e analista de sistemas ERP. Sou apaixonada por otimizar processos, resolver problemas e garantir a excelência em soluções digitais.
 
 ---
 
