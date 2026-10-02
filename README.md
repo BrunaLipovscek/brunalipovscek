@@ -1,53 +1,41 @@
 # Olá! 👋
 
-Sou uma profissional com 18 anos de experiência em Tecnologia e Educação, atualmente estudante de Análise e Desenvolvimento de Sistemas e analista de sistemas ERP. Sou apaixonada por otimizar processos, resolver problemas e garantir a excelência em soluções digitais.
+Sou a Bruna, analista de QA em transição de carreira, com 18 anos de experiência em tecnologia e educação. Curso Análise e Desenvolvimento de Sistemas na UNINTER e me preparo para a certificação ISTQB CTFL.
+
+Gosto de entender como os sistemas funcionam por dentro, encontrar o que pode dar errado antes do usuário e documentar tudo de um jeito que qualquer pessoa entenda.
 
 ---
 
-### 🛠️ Minhas Habilidades e Tecnologias:
+### 🧪 Qualidade de Software
+- **Planejamento e gestão:** ciclo de vida de testes, mapa mental, matriz de rastreabilidade (RTM), Jira com Zephyr
+- **Execução:** testes funcionais, smoke, exploratórios, de regressão e de usabilidade
+- **Especificação:** cenários em BDD/Gherkin, casos de teste, critérios de aceite, reporte de defeitos
+- **Web, API e dados:** DevTools (Network, cookies, storages), Postman, SQL
 
-**Linguagens:** Python | JavaScript | SQL | HTML | CSS
-**Automação & Testes:** Selenium WebDriver | Postman | Testes Manuais | Testes de API | Automação de Testes
-**Metodologias Ágeis:** Scrum (SFC) | Kanban (KAC)
-**Ferramentas:** Git | GitHub | Google Analytics | Pacote Office | Jira (em estudo)
-**Sistemas Operacionais:** Windows | Linux
-**Outras:** Suporte Técnico | Análise de Sistemas | Resolução de Problemas | Documentação Técnica
+### ⚙️ Automação (em estudo)
+Python · Selenium WebDriver · pytest · Requests
 
----
-
-### 💡 Projetos em Destaque:
-
-* **[Projeto de Automação de Testes Web com Python e Selenium]**
-    * Um projeto que demonstra a automação de testes funcionais em Python e Selenium.
-    * [(https://github.com/BrunaLipovscek/primeiro-projeto-testes-automatizados)]
-* **[Projeto de Desenvolvimento Web com HTML, CSS e JavaScript]**
-    * Desenvolvimento de um site interativo explorando design responsivo.
-    * [https://github.com/BrunaLipovscek/portfolio-pessoal]
+### 🔧 Ferramentas e métodos
+Git · GitHub · Jira · Scrum · Kanban
 
 ---
 
-### 🏆 Certificações:
-
-* **Scrum Fundamentals Certified (SFC)**
-* **Kanban Awareness Certified (KAC)**
-* **Postman API Fundamentals Student Expert**
-* **EF SET English Certificate (C2 Domínio Pleno)**
-* **Google Certified Coach**
-* **Google Certified Trainer**
+### 💡 Projetos
+- **[Projeto de estudo em automação de testes](https://github.com/BrunaLipovscek/primeiro-projeto-testes-automatizados):** testes de interface (Selenium), de API (Requests) e de banco de dados (MySQL), organizados com pytest
+- **[Casos de teste para plataforma de veículos elétricos](https://github.com/BrunaLipovscek/Vehicle_test_case-QA_Assignment):** desenho de casos de teste, validação de dados e estratégia de regressão
 
 ---
 
-### 🌱 Trabalho Voluntário:
+### 🏆 Certificações
+- ISTQB CTFL: em preparação
+- Postman API Fundamentals Student Expert (2025)
+- Scrum Fundamentals Certified – SFC (2025)
+- Kanban Awareness Certified – KAC (2025)
+- Google for Education Certified Trainer (2023) e Coach (2024)
 
-**Caçadora de Gatos e Suporte Operacional** | Abrigo dos Gatos do Cemitério da Saudade - Piracicaba/SP 🐾
-* Atuação voluntária na localização e captura segura de gatos para castração, demonstrando organização, proatividade e solução de problemas.
-* [https://www.instagram.com/gatosdocemiteriodasaudade/]
+### 🌎 Idiomas
+Português (nativo) · Inglês (avançado, EF SET C2) · Espanhol e francês (básico)
 
 ---
 
-### 💬 Vamos Conectar!
-
-* **LinkedIn:** [linkedin.com/in/brunalipovscek](https://linkedin.com/in/brunalipovscek)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunalipovscek&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunalipovscek&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+📫 [LinkedIn](https://linkedin.com/in/brunalipovscek)
